@@ -1,2 +1,2 @@
 # My-First-Repo
-First Repository
+"The first repository to track my journey to becoming a professional programmer."
