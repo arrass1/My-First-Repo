@@ -4,3 +4,4 @@ My Resolusi
 - Pro Laravel
 - Creating an Anime-Themed Website
 - Become Fullstack Developer
+- Creating an Anime-Themed Game
