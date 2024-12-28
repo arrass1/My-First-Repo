@@ -1,3 +1,6 @@
 Plan Project F
 - Tailwind CSS
+  *Design
+  *Animation
 - Laravel
+  *Instalation
