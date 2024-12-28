@@ -4,3 +4,5 @@ Plan Project F
   *Animation
 - Laravel
   *Instalation
+  *Create File
+  *Create Route
