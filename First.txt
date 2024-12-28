@@ -1,6 +1,7 @@
 My Journey To be a programmer professional
 My Resolusi
-- Pro bahasa PHP
+- Learning Basic PHP ✅
+- Pro PHP
 - Pro Laravel
 - Creating an Anime-Themed Website
 - Become Fullstack Developer
