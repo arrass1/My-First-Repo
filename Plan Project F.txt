@@ -5,4 +5,4 @@ Plan Project F
 - Laravel
   *Instalation
   *Create File
-  *Create Route
+  *Configure Tailwind CSS
